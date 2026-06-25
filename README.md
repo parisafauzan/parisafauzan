@@ -17,6 +17,17 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/parisafauzan/parisafauzan/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph"/>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parisafauzan/parisafauzan/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parisafauzan/parisafauzan/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/parisafauzan/parisafauzan/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ## 🙋‍♂️ About Me
 
@@ -111,17 +122,11 @@ I'm an **Informatics Engineering student** at National Institute of Technology, 
   <img src="https://streak-stats.demolab.com?user=parisafauzan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" height="165" alt="streak graph"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/parisafauzan/parisafauzan/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph"/>
-</div>
+
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parisafauzan/parisafauzan/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parisafauzan/parisafauzan/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/parisafauzan/parisafauzan/pacman-output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
