@@ -13,6 +13,7 @@
   <a href="mailto:parisafauzan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/paris-achmad-fauzan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://portfolio-paris-achmad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=parisafauzan&label=Profile%20views&color=6f42c1&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
@@ -101,29 +102,25 @@ I'm an **Informatics Engineering student** at National Institute of Technology, 
 
 ## 📊 GitHub Stats
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parisafauzan&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=true&border_radius=10" height="165" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parisafauzan&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=10" height="165" alt="top languages"/>
+</div>
 
-<!-- <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div> -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=parisafauzan&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10" height="165" alt="streak graph"/>
+</div>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/parisafauzan/parisafauzan/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph"/>
 </div>
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parisafauzan/parisafauzan/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parisafauzan/parisafauzan/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/parisafauzan/parisafauzan/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
